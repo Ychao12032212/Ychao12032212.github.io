@@ -19,7 +19,7 @@ My research lies at the intersection of wireless communications and sensing, wit
 - Wi-Fi sensing, WLAN standards, and resource scheduling
 - AI for wireless sensing and sim-to-real adaptation
 
-## Selected Highlights
+## Highlights
 
 - Developed **mmAlert**, a 60-GHz ISAC prototype for joint signal-source localization and passive target tracking. Real-world experiments achieved localization errors of 0.07–0.76 m and trajectory-tracking errors of 0.20–0.29 m.
 - Proposed a drone-enabled dual-antenna FDoA localization approach, achieving 0.49–0.79 m localization error with commercial Wi-Fi devices.
