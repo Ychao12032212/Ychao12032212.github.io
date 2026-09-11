@@ -1,7 +1,7 @@
 ---
 title: "An Experimental Study of Passive UAV Tracking with Digital Arrays and Cellular Downlink Signals"
 collection: publications
-category: manuscripts
+category: other_author
 permalink: /publication/2025-passive-uav-tracking
 date: 2025-01-01
 venue: "IEEE Open Journal of the Communications Society"

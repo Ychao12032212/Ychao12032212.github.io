@@ -1,7 +1,7 @@
 ---
 title: "Doppler-Based Multistatic Drone Tracking via Cellular Downlink Signals"
 collection: publications
-category: conferences
+category: other_author
 permalink: /publication/2025-doppler-multistatic-drone-tracking
 date: 2025-01-01
 venue: "IEEE GLOBECOM Workshops 2025"

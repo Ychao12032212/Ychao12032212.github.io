@@ -1,7 +1,7 @@
 ---
 title: "WiSLAT: A Simultaneous Device Localization and Target Tracking Method for Wi-Fi Systems"
 collection: publications
-category: conferences
+category: other_author
 permalink: /publication/2026-wislat-wifi-localization-tracking
 date: 2026-01-01
 venue: "IEEE SECON 2026"

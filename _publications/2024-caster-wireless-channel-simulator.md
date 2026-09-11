@@ -1,7 +1,7 @@
 ---
 title: "CASTER: A Computer-Vision-Assisted Wireless Channel Simulator for Gesture Recognition"
 collection: publications
-category: manuscripts
+category: other_author
 permalink: /publication/2024-caster-wireless-channel-simulator
 date: 2024-01-01
 venue: "IEEE Open Journal of the Communications Society"

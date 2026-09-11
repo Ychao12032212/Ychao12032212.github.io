@@ -1,7 +1,7 @@
 ---
 title: "An Experimental Study on Fine-Grained Bistatic Sensing of UAV Trajectory via Cellular Downlink Signals"
 collection: publications
-category: manuscripts
+category: other_author
 permalink: /publication/2026-uav-bistatic-sensing
 date: 2026-01-01
 venue: "IEEE Wireless Communications Letters"

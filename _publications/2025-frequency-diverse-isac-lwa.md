@@ -1,7 +1,7 @@
 ---
 title: "Frequency-Diverse Integrated Sensing and Communication System Utilizing Coupled-Resonator LWA with Full-Space Coverage and High Scanning Rate"
 collection: publications
-category: manuscripts
+category: other_author
 permalink: /publication/2025-frequency-diverse-isac-lwa
 date: 2025-01-01
 venue: "IEEE Journal of Selected Topics in Electromagnetics, Antennas and Propagation"
