@@ -26,7 +26,7 @@ My research lies at the intersection of wireless communications and sensing, wit
 - Developed passive handwriting reconstruction with weak mmWave communication signals, with 90% of reconstruction errors below 6 mm.
 - Worked with Huawei, HONOR, ZTE, and National Instruments on 6G communications, Wi-Fi standards, and sensing systems.
 
-## Selected First-Author Publications
+## Publications
 
 [1] C. Yu, B. Lv, C. Chen, J. Zhang, and R. Wang, “mmAlert: A Simultaneous Device Localization and Target Tracking System via Cooperative Passive Sensing,” *IEEE Transactions on Wireless Communications*, vol. 25, pp. 18185–18198, 2026. [DOI](https://doi.org/10.1109/TWC.2026.3698942)
 
