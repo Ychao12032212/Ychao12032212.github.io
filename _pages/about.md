@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Yu Chao"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 I am a Ph.D. candidate in Control Science and Engineering at the Department of Electrical and Electronic Engineering, Southern University of Science and Technology (SUSTech).
 
 My research lies at the intersection of wireless communications and sensing, with a focus on integrated sensing and communication (ISAC), low-altitude drone sensing, and Wi-Fi sensing and standards. I develop sensing algorithms and end-to-end prototypes, and validate them through real-world experiments.
