@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Yu Chao"
 author_profile: true
 redirect_from:
   - /about/
