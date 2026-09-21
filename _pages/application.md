@@ -13,7 +13,7 @@ Beyond algorithm development, I work toward deployable wireless sensing and comm
 
 I contributed to an integrated sensing and communication (ISAC) prototype operating on a 60-GHz communication testbed. The system supports passive sensing tasks such as localization, motion tracking, and link-blockage prediction while maintaining communication functionality. The testbed was featured by National Instruments as an international customer case study.
 
-**Related work:** [mmAlert: mmWave Link Blockage Prediction via Passive Sensing](https://doi.org/10.1109/LWC.2023.3304320)
+**Related work:** [A mmWave Testbed for Integrated  Sensing and Communication]([https://doi.org/10.1109/LWC.2023.3304320](https://www.ni.com/content/dam/web/pdfs/512950_EMR_NI_Wireless_CustomerStories_Ltr_en_WR_Spreads.pdf))
 
 ## Wi-Fi Sensing and Standards
 
