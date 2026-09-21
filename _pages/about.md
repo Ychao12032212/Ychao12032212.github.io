@@ -40,4 +40,4 @@ My research lies at the intersection of wireless communications and sensing, wit
 - **M.Eng. in Electronic Science and Technology**, SUSTech, 2020–2023
 - **B.Eng. in Electronic Information Science and Technology**, Qingdao University of Technology, 2015–2019
 
-%[Download my CV](/files/Yu_Chao_CV.pdf)
+
