@@ -7,12 +7,6 @@ author_profile: true
 
 Beyond algorithm development, I work toward deployable wireless sensing and communication systems. My industry-facing work spans product optimization, prototype validation, and Wi-Fi standardization, with collaborations involving HONOR, National Instruments, Huawei, and ZTE.
 
-## QoS-Aware Wi-Fi Resource Scheduling
-
-**Industry collaboration:** HONOR, 2022-2024
-
-I developed a dual-channel “traffic-light” resource-allocation strategy for QoS-aware Wi-Fi scheduling. By coordinating traffic across two channels according to network conditions, the method reduced transmission latency and stalling by 25%-60% in evaluation. The solution was deployed in HONOR mobile-terminal products.
-
 ## mmWave ISAC Testbed
 
 **Industry collaboration:** National Instruments
