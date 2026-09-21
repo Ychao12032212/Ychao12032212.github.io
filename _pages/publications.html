@@ -5,34 +5,39 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 <p><em>* Equal contribution.</em></p>
 
-{% include base_path %}
+<ol style="list-style: none; padding-left: 0;">
+  <li><strong>[1]</strong> <strong>C. Yu</strong>, B. Lv, C. Chen, J. Zhang, and R. Wang, “mmAlert: A Simultaneous Device Localization and Target Tracking System via Cooperative Passive Sensing,” <em>IEEE Transactions on Wireless Communications</em>, vol. 25, pp. 18185-18198, 2026, doi: 10.1109/TWC.2026.3698942. <strong>(TOP journal in communications, JCR Q1, IF = 10.7)</strong></li>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  <li><strong>[2]</strong> <strong>C. Yu</strong>, L. Li, X. Wei, Z. Zhang, and R. Wang, “FOCUS: Outdoor Transmitter Localization Exploiting the Mobility of a Single Drone,” <em>IEEE Wireless Communications Letters</em>, vol. 15, pp. 4080-4084, 2026, doi: 10.1109/LWC.2026.3712042. <strong>(Flagship journal in communications, JCR Q1, IF = 5.9)</strong></li>
+
+  <li><strong>[3]</strong> <strong>C. Yu*</strong>, Y. Luo* et al., “Passive Handwriting Tracking via Weak mmWave Communication Signals,” <em>IEEE Wireless Communications Letters</em>, 2023, doi: 10.1109/LWC.2023.3348875. <strong>(Flagship journal in communications, JCR Q1, IF = 5.9)</strong></li>
+
+  <li><strong>[4]</strong> <strong>C. Yu</strong>, R. Wang et al., “mmAlert: mmWave Link Blockage Prediction via Passive Sensing,” <em>IEEE Wireless Communications Letters</em>, 2023, doi: 10.1109/LWC.2023.3304320. <strong>(Flagship journal in communications, JCR Q1, IF = 5.9)</strong></li>
+
+  <li><strong>[5]</strong> <strong>C. Yu</strong>, B. Lv et al., “Trajectory Tracking for MmWave Communication Systems via Cooperative Passive Sensing,” <em>ZTE Communications</em>, 2024, doi: 10.12142/ZTECOM.202403005. <strong>(High-quality domestic journal, CCF T2, invited paper)</strong></li>
+
+  <li><strong>[6]</strong> J. Li*, <strong>C. Yu*</strong>, et al., “Passive Motion Detection via mmWave Communication System,” <em>2022 IEEE 95th Vehicular Technology Conference (VTC2022-Spring)</em>, Helsinki, Finland, 2022, pp. 1-6, doi: 10.1109/VTC2022-Spring54318.2022.9860809. <strong>(EI conference, co-first author)</strong></li>
+
+  <li><strong>[7]</strong> J. Zhang, C. Chen, <strong>C. Yu</strong> et al., “DoDTrack: Indoor Mobile Devices Tracking via Difference-of-Doppler,” <em>2026 IEEE Global Communications Conference</em>. <strong>(Accepted)</strong></li>
+
+  <li><strong>[8]</strong> C. Chen, J. Zhang, <strong>C. Yu</strong>, F. Liu, and R. Wang, “WiSLAT: A Simultaneous Device Localization and Target Tracking Method for Wi-Fi Systems,” <em>2026 22nd Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)</em>, Pisa, Italy, 2026, pp. 187-195, doi: 10.1109/SECON68281.2026.11579214. <strong>(CCF-B)</strong></li>
+
+  <li><strong>[9]</strong> C. Ji, J. Liu, Q. Liu, Y. Sun, <strong>C. Yu</strong>, and R. Wang, “An Experimental Study on Fine-Grained Bistatic Sensing of UAV Trajectory via Cellular Downlink Signals,” <em>IEEE Wireless Communications Letters</em>, vol. 15, pp. 1807-1811, 2026, doi: 10.1109/LWC.2026.3663501. <strong>(Flagship journal in communications, JCR Q1, IF = 5.9)</strong></li>
+
+  <li><strong>[10]</strong> Y. Sun, <strong>C. Yu</strong> et al., “An Experimental Study of Passive UAV Tracking With Digital Arrays and Cellular Downlink Signals,” <em>IEEE Open Journal of the Communications Society</em>, vol. 6, pp. 3779-3794, 2025, doi: 10.1109/OJCOMS.2025.3558430. <strong>(JCR Q1, IF = 8.2)</strong></li>
+
+  <li><strong>[11]</strong> W. Xu, D. Ma, P. Jiang, <strong>C. Yu</strong> et al., “Frequency-Diverse Integrated Sensing and Communication System Utilizing Coupled-Resonator LWA With Full-Space Coverage and High Scanning Rate,” <em>IEEE Journal of Selected Topics in Electromagnetics, Antennas and Propagation</em>, vol. 1, no. 1, pp. 249-264, Sept. 2025, doi: 10.1109/JSTEAP.2025.3606945.</li>
+
+  <li><strong>[12]</strong> Z. Ren, C. Ji, <strong>C. Yu</strong> et al., “Computer Vision-Assisted Wireless Channel Simulation for Millimeter-Wave Human Motion Recognition,” <em>Journal of Radars</em>, vol. 14, no. 1, pp. 90-102, 2025, doi: 10.12000/JR24101. <strong>(Peking University Core Journal, EI, invited paper)</strong></li>
+
+  <li><strong>[13]</strong> C. Lin, <strong>C. Yu</strong>, X. Xu, and R. Wang, “mmTracking: Trajectory Tracking for Uplink mmWave Devices with Multi-Path Doppler Difference of Arrival,” <em>2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring)</em>, Oslo, Norway, 2025, pp. 1-6, doi: 10.1109/VTC2025-Spring65109.2025.11174298. <strong>(EI conference)</strong></li>
+
+  <li><strong>[14]</strong> C. Ji, Q. Liu, J. Liu, <strong>C. Yu</strong> et al., “Doppler-Based Multistatic Drone Tracking via Cellular Downlink Signals,” <em>2025 IEEE GLOBECOM Workshops (GC Wkshps)</em>, Taipei, Taiwan, 2025, pp. 1723-1728, doi: 10.1109/GCWkshps68340.2025.11591241.</li>
+
+  <li><strong>[15]</strong> Z. Ren, G. Li, C. Ji, <strong>C. Yu</strong>, S. Wang, and R. Wang, “CASTER: A Computer-Vision-Assisted Wireless Channel Simulator for Gesture Recognition,” <em>IEEE Open Journal of the Communications Society</em>, vol. 5, pp. 3185-3195, 2024, doi: 10.1109/OJCOMS.2024.3398016. <strong>(JCR Q1, IF = 8.2)</strong></li>
+</ol>
 
 
 
